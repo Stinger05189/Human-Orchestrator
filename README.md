@@ -1,2 +1,7 @@
-# Human-Orchestrator
-A manifesto on building AAA software with manual AI orchestration. How to remain the gatekeeper of your code while using Gemini 3.0 Pro.
+# The Human Orchestrator
+
+This repository hosts the manifesto "The Human Orchestrator: How I Built AAA Software with Manual AI Development".
+
+### [🔴 Read the Article Here](https://[Stinger05189].github.io/human-orchestrator/)
+
+*Built with manual AI orchestration and GitHub Pages (Midnight Theme).*
