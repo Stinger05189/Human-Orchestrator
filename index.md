@@ -6,7 +6,7 @@ description: How I Built AAA Software with Manual AI Development
 
 # The Human Orchestrator: How I Built AAA Software with Manual AI Development
 
-**By [Stinger05189]**
+**By Stinger05189**
 
 Most people today are rushing toward "agentic" coders—autonomous frameworks like Google Anti-Gravity that promise to build software *for* you. They want a "set it and forget it" solution. But after spending thousands of hours coding with AI over the last year, I’ve found that the real power isn't in letting the AI be the captain. It’s in becoming a **Human Orchestrator**.
 
