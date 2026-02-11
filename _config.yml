@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: The Human Orchestrator
+description: A manifesto on manual AI software development.
+logo: # You can add a path to an image here later if you want
+show_downloads: false
