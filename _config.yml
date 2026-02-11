@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
 title: The Human Orchestrator
 description: A manifesto on manual AI software development.
-show_downloads: true
+show_downloads: false
